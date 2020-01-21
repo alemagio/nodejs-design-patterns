@@ -2,7 +2,7 @@
 
 This post is the first of a series of posts where we will explore some of the most used design patterns in Node.  
 I am not a professional Node developer, I am doing this series to improve my knowledge of Node and, possibly, to understand a bit more how it works under the hood.  
-This series is widely inspired by the book 'Node.js Design Patterns' by Mario Casciaro and Luciano Mammino, so I strongly recommend you to read the book to dive deeper into all the patterns we will focus on. 
+This series is widely inspired by the book ['Node.js Design Patterns'](nodejsdesignpatterns.com) by Mario Casciaro and Luciano Mammino, so I strongly recommend you to read the book to dive deeper into all the patterns we will focus on. 
 
 # The idea
 
