@@ -16,7 +16,7 @@ The only thing we need to know is that this service should print 3 things:
 ```js
 // myService.js
 class MyService {
-  init () {
+  init (arg) {
     console.log('start')
 
     if (arg !== 'error') {
